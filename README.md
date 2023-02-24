@@ -2,4 +2,4 @@
 Encontre os melhores hits do seu cantor favorito
 ##
 
-<img src="https://user-images.githubusercontent.com/125774969/221199558-239998f1-a7cc-41ac-bd16-d4e5aaa310d6.png">
+<img src="https://user-images.githubusercontent.com/125774969/221199918-4a0d6b8c-4524-4609-8490-3fe0116b94c6.png">
